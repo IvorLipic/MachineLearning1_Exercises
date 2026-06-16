@@ -41,6 +41,8 @@ Repository of laboratory exercises for the course **"Strojno učenje 1"** (Machi
 
 ## Acknowledgements
 
+University of Zagreb, Faculty of Electrical Engineering and Computing (FER)
+
 Original notebook templates by **Jan Šnajder** and **Domagoj Alagić** (c) 2015–2025.
 
 Course: [Strojno učenje 1](http://www.fer.unizg.hr/predmet/struce1)
